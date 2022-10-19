@@ -5,8 +5,8 @@ import 'package:introduction_screen/introduction_screen.dart';
 
 import './home_page.dart';
 
-class IntroScreen extends StatelessWidget {
-  IntroScreen({super.key});
+class IntroPage extends StatelessWidget {
+  IntroPage({super.key});
 
   final pageDecoration = PageDecoration(
     imagePadding: const EdgeInsets.only(top: 65.0),
