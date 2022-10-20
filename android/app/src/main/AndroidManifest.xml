@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.first_project_isin">
+    package="com.example.first_task_isin_v2">
    <application
-        android:label="first_project_isin"
+        android:label="first_task_isin_v2"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
